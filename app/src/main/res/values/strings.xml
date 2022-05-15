@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">S41_Database</string>
+    <string name="descripcion">Descripción</string>
+    <string name="valor">Valor</string>
+    <string name="codigo_de_producto">Código de producto</string>
+    <string name="nombre_de_producto">Nombre de producto</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="agregar">Agregar</string>
+    <string name="buscar">Buscar</string>
+    <string name="modificar">Modificar</string>
+</resources>
